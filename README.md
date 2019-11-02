@@ -1,6 +1,6 @@
 # Delight People Tracker
 ![ss](https://user-images.githubusercontent.com/48216110/68068356-e5d01400-fd79-11e9-9a63-a9f1f8d14703.png)
-A demo CRUD application made with DeLight v0.2.
+A demo CRUD application made with DeLight v0.2.5.
 This application lets you add people that are of interest to you and make notes about them.
 
 # Installation
